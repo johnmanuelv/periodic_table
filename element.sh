@@ -1,3 +1,5 @@
+
+# Updated comment for testing commits
 # This script retrieves element details from the periodic_table database
 # FreeCodeCamp Periodic Table Project
 # Script to retrieve element details from periodic_table database
