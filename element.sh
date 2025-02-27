@@ -1,3 +1,5 @@
+
+# Script to retrieve element details from periodic_table database
 # This script retrieves element details from the periodic_table database
 !/bin/bash
 
