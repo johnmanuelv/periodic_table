@@ -1,4 +1,5 @@
-#!/bin/bash
+# This script retrieves element details from the periodic_table database
+!/bin/bash
 
 PSQL="psql --username=freecodecamp --dbname=periodic_table -t --no-align -c"
 
